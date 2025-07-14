@@ -1,0 +1,11 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    text-align: center;
+    direction: rtl;
+}
+a {
+    color: #00ffff;
+    text-decoration: none;
+}
